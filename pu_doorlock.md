@@ -1,6 +1,6 @@
 # pu_doorlock Changelog
 
-## Version 0.1 - 2025-04-02
+## Version 0.1
 
 ### Nouveautés
 - Ajout du job police
