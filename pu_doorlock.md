@@ -1,9 +1,9 @@
-# pu_doorlock Changelog
-
 ## Version 0.1
 
 ### Nouveautés
-- Ajout du job police
+- Item 1
+- Item 2
 
 ### Corrections
-- Correction des logs inutiles
+- Fix 1
+- Fix 2
