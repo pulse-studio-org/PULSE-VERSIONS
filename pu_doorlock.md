@@ -1,7 +1,7 @@
 ## Version 0.0.1
 
-### Nouveautés
+### News
 - Ajout du job police et ambulance
 
-### Corrections
+### Fixes
 - Correction des logs inutiles
