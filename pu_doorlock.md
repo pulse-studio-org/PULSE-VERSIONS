@@ -1,9 +1,7 @@
 ## Version 0.1
 
 ### Nouveautés
-- Item 1
-- Item 2
+- Ajout du job police
 
 ### Corrections
-- Fix 1
-- Fix 2
+- Correction des logs inutiles
